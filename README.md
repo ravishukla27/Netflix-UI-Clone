@@ -4,7 +4,6 @@ A responsive Netflix homepage clone built using:
 
 - HTML
 - CSS
-- JavaScript
 
 ## Features
 
