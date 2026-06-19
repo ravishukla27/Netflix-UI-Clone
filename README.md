@@ -3,14 +3,10 @@
 A Netflix inspired UI clone built using **HTML and CSS**.  
 This project recreates the Netflix homepage interface with a hero section, movie/show cards, and a responsive layout.
 
-## 🚀 Live Demo
-
-https://ravishukla27.github.io/Netflix-UI-Clone/
-
 
 ## 📸 Preview
 
-![Netflix UI Clone Preview](screenshot.png)
+![Netflix UI Clone Preview](Screenshot.png)
 
 
 ## ✨ Features
